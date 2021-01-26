@@ -18,7 +18,7 @@ public class CloningTest {
 	public static void main(String[] args) throws CloneNotSupportedException {
 
 		//create emp obj with data
-		Employee e1 = new Employee();
+		Employee e1 = new Employee(); //object creation
 		e1.setId(1);
 		e1.setName("shyam");
 
